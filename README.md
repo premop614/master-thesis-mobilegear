@@ -51,4 +51,4 @@ Seasonal variation was observed in customer activity, particularly during specif
 
 ## Note
 
-The data preparation and exploratory analysis were initially performed in Excel, while the modelling and advanced analysis were implemented in Python.
+The initial data exploration, quality assessment, and part of the data preparation were performed in Excel, while the modelling and advanced analysis were implemented in Python.
