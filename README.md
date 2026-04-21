@@ -35,13 +35,13 @@ The analysis shows that customer value is unevenly distributed, with a relativel
 
 The clustering results confirm the presence of distinct behavioural groups, such as new, inactive, repeat, and higher-value customers. These segments differ not only in their overall value but also in their purchasing patterns over time.
 
-Seasonal variation was observed in customer activity, particularly during specific periods such as Back-to-School and Christmas. Some customer segments, especially Inactive and Repeat Customers, show increased responsiveness during these periods, while others behave more consistently throughout the year.
+Seasonal variation was observed in customer activity, particularly during specific periods such as Back-to-School and Christmas. Some customer segments show increased responsiveness during these periods, while others behave more consistently throughout the year.
 
 ## Repository Structure
 
 ├── README.md  
 ├── analysis.ipynb  
-├── Master Thesis.docx  
+├── Master Thesis.pdf  
 
 ## Tools and Technologies
 
